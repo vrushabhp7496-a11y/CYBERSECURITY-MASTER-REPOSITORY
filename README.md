@@ -20,7 +20,7 @@ Welcome! This is my **central index** — a one‑stop guide to every concept, l
 | 8 | 🏢 **Active Directory Basics** | https://github.com/vrushabhp7496-a11y/Basics-of-active-directory | Users, Groups, OUs, GPO, Delegation |
 | 9 | 🪟 **Windows Fundamentals** | https://github.com/vrushabhp7496-a11y/Basics-of-Windows-Fundamentals | NTFS, UAC, Event Viewer, Registry, Security Basics |
 | 10 | 🐧 **Linux Commands** | https://github.com/vrushabhp7496-a11y/Linux-commands | Essential Linux commands for security professionals |
-
+| 11 | 😈 ** OWASP TOP 10** | https://github.com/vrushabhp7496-a11y/OWASP-TOP-10/edit/main/README.md | OWASP Top 10 Vulnerabilities in brief and practical moduled |
 ---
 
 ## PLEASE GO THROUGH PDF IN FOLLOWING PROJECTS :
